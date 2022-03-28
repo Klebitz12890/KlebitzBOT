@@ -3,19 +3,19 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 ╭═════════════════
 ║╭──❉ *𝐁𝐈𝐎𝐃𝐀𝐓𝐀 𝐎𝐖𝐍𝐄𝐑* ❉───
-║│➸ *Nama* : rozi ( nama samaran ) 
-║│➸ *Umur* : 15
-║│➸ *Kelas* :  9 SMP
-║│➸ *Status* : butuh ayng AWOKAWOK
+║│➸ *Nama* : Klebitz ( nama samaran ) 
+║│➸ *Umur* : 12
+║│➸ *Kelas* :  6 SD
+║│➸ *Status* : butuh....... _Lag_
 ║╰───────────────
 ╰════════════════
 ╭════════════════
 ║╭──❉ *𝐒𝐎𝐒𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀* ❉───
-║│➸ *No.Owner* : wa.me/6285828764046
-║│➸ *No.Bot* : wa.me/6285828764046
+║│➸ *No.Owner* : wa.me/+6281211006838
+║│➸ *No.Bot* : wa.me/+628111980193
 ║│➸ *Chanel Youtube* : GAK ADA
-║│➸ *Gmail* : roziganteng559@gmail.com
-║│➸ *Github* : https://github.com/Botynyakamu 
+║│➸ *Gmail* : fikripricahyadi10@gmail.com
+║│➸ *Github* : https://github.com/Klebitz12890 
 ║╰────────────────
 ╰═════════════════
 _Oke udah itu aja terimakasih_
