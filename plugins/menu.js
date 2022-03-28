@@ -32,7 +32,7 @@ const defaultMenu = {
   body: '║│➸%cmd %islimit %isPremium',
   footer: '*╰───❉*\n',
   after: `
-  ⬣━〔Powered By Rozi〕━⬣
+  ⬣━〔Powered By Fikri〕━⬣
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
@@ -225,7 +225,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ║╭──❉ 〔 ⳹ ❋ཻུ۪۪⸙𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸⏰Aktif selama ${uptime}
 ║│➸⚡Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
-║│➸zifabotz
+║│➸KlebitzBOT
 ║│➸ *${conn.blocklist.length}* Terblock
 ║│➸ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 ║│➸ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
@@ -249,7 +249,7 @@ _____•••••••••
                                     "rowId": ".profile"
                                 }, {
   "title":  "|👩‍💻| ❯╾jadibot╼-",
-                                    "description": "bergabung bersama bot zifa",
+                                    "description": "bergabung bersama bot Klebitz",
                                     "rowId": ".jadibot"
                                 }, {
   "title":  "|🙇‍♂️| ❯╾group╼-",
